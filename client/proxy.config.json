@@ -1,0 +1,7 @@
+{
+  "/websocket-manager": {
+    "target": "ws://localhost:10000",
+    "ws": true,
+    "logLevel": "debug"
+  }
+}
